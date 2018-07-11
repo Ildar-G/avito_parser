@@ -40,6 +40,7 @@ def write_csv(data):
                         data['url'],
                         data['price'],
                         data['metro']))
+        ##
 
 
 def get_page_data(html):
